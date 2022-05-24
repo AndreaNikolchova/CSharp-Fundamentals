@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "1. Convert Meters to Kilometers": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
